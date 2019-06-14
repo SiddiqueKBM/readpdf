@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="019fcc03-f9b0-442c-b373-e5f98c75c147" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/BlackKnightMobile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/Generic/src/main/java/common/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/UICatalog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/app/UICatalog6.1.app.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/AlertsPage/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/ButtonsPage/Buttons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/ControlsPage/Controls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/ImgesPage/Images.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/PickersPage/Picker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/SearchBarPage/SearchBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/SegmentsPage/Segments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/TextFieldsPage/TextFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/TextViewPage/TextView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/ToolbarPage/Toolbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/TransitionsPage/Transitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/UiCatalogPage/UiCatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/WebPage/Web.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/main/java/navigate/NavigateUi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/test/java/iPhone/AlertsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/test/java/iPhone/ButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/test/java/iPhone/ControlsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/test/java/iPhone/PickerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/test/java/iPhone/TextFieldsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/test/java/ipad/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/UICatalog/src/test/resources/cataLogAppTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BlackKnightMobile/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenTest/HBO/src/main/java/pages/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenTest/HBO/src/main/java/reader/SearchUsingGS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MavenTest/HDepot/src/main/java/base/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__cglib_cglib_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__cglib_cglib_nodep_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__com_google_guava_guava_17_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__io_appium_java_client_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__io_netty_netty_3_5_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__net_java_dev_jna_jna_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__net_sourceforge_cssparser_cssparser_0_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__net_sourceforge_htmlunit_htmlunit_core_js_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_apache_poi_poi_3_13_beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_eclipse_jetty_jetty_io_9_2_11_v20150529.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_eclipse_jetty_jetty_util_9_2_11_v20150529.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_api_9_2_11_v20150529.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_client_9_2_11_v20150529.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_eclipse_jetty_websocket_websocket_common_9_2_11_v20150529.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_ow2_asm_asm_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_htmlunit_driver_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_leg_rc_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_2_46_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__org_webbitserver_webbit_0_4_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Generic/src/main/java/common/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Paramount/Paramount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Paramount/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Paramount/src/main/java/HomePage/HomePageMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Paramount/src/test/java/HomePageMenuTest/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/Paramount/src/test/resources/TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/ParamountNetwork1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParamountNetwork/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_Note/Study &amp; Research/BitTech/All Eclipse Files/BDDCu1/Shosha/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_Note/Study &amp; Research/BitTech/All Eclipse Files/BDDCu1/Shosha/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_Note/Study &amp; Research/BitTech/All Eclipse Files/BDDCu1/Shosha/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_Note/Study &amp; Research/BitTech/All Eclipse Files/BDDCu1/Shosha/driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Personal_Note/Study &amp; Research/BitTech/All Eclipse Files/BDDCu1/Shosha/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/TechnicalA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/src/main/java/base/CommonAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TechnicalA/src/test/java/testPages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Generic/Generic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Generic/src/main/java/common/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Paramount/Paramount.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Paramount/app/Paramount.apk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Paramount/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Paramount/src/main/java/HomePage/HomePageMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Paramount/src/test/java/HomePageMenuTest/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Paramount/src/test/resources/TestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/Viacom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Viacom/pom.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="30" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DataReader/ReadPDF.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/DataReader/ReadPDF.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="readpdf" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="readpdf" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="828" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="readpdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="readpdf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="readpdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="readpdf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="readpdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="readpdf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="readpdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="readpdf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="readpdf" type="b2602c69:ProjectViewProjectNode" />
+              <item name="readpdf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="DataReader" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560487935064" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ReadPDF">
+    <configuration name="ReadPDF" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="readpdf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataReader" />
+      <option name="MAIN_CLASS_NAME" value="DataReader.ReadPDF" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadPDF.readPDFTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="readpdf" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataReader" />
+      <option name="MAIN_CLASS_NAME" value="DataReader.ReadPDF" />
+      <option name="METHOD_NAME" value="readPDFTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ReadPDF" />
+        <item itemvalue="TestNG.ReadPDF.readPDFTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="019fcc03-f9b0-442c-b373-e5f98c75c147" name="Default Changelist" comment="" />
+      <created>1549815996850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549815996850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ReadPDF - 2019.02.10 at 12h 22m 54s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF_readPDFTest - 2019.02.10 at 12h 23m 16s.xml">
+      <configuration name="ReadPDF.readPDFTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.02.22 at 13h 47m 05s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.02.28 at 13h 59m 22s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.03.12 at 09h 31m 48s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.03.12 at 09h 32m 19s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.03.12 at 16h 11m 16s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.03.12 at 16h 12m 15s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.03.12 at 16h 14m 03s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ReadPDF - 2019.03.12 at 16h 15m 52s.xml">
+      <configuration name="ReadPDF" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.18478261" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32880434" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32791328" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DataReader/ReadPDF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
